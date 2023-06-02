@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-condition",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "支持类似uni的条件编译的vite插件",
   "type": "module",
   "main": "index.js",
@@ -8,6 +8,17 @@
   "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/Alfred-kai/vite-plugin-condition",
+  "keywords": [
+    "vite-plugin",
+    "vite",
+    "condition"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alfred-kai/vite-plugin-condition",
+    "directory": "packages/vite"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
