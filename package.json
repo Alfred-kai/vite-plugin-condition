@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-condition",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "支持类似uni的条件编译的vite插件",
   "type": "module",
   "main": "index.js",

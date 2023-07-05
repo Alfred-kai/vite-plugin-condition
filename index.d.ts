@@ -9,7 +9,7 @@ export interface ConditionPluginSConfig {
 }
 
 export interface conditionPluginStatic {
-  (config: ConditionPluginSConfig): Plugin
+  (config?: ConditionPluginSConfig): Plugin
 }
 
 declare const conditionPlugin: conditionPluginStatic
